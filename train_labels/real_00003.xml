@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>real_00003.jpg</filename>
+	<path>C:\Users\gianc\OneDrive\Documentos\Universidad_Rosario\Aprendizaje_automatico_maquina\Donde estan los ojos\train\real_00003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ojos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>196</ymin>
+			<xmax>323</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
