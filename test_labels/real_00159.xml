@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_3</folder>
+	<filename>real_00159.jpg</filename>
+	<path>C:\Users\HOGAR (JOSE)\Desktop\U\2021-2\Aprendizaje automático de Maquinas\Tareas\Proyecto II final\Donde estan los ojos\train_3\real_00159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ojos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>225</ymin>
+			<xmax>466</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
